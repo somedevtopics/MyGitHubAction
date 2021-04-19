@@ -1,0 +1,3 @@
+name: 'Hello World' # Le nom de votre action (obligatoire)
+description: 'Dit bonjour à une personne' # une simple description (obligatoire)
+author: 'Guy Northée' # le nom du créateur (optionnel)
